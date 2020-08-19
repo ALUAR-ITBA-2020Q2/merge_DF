@@ -1,0 +1,7 @@
+*.xlsx
+*.hdf
+*.docx
+*.pptx
+database/
+.ipynb_checkpoints
+
